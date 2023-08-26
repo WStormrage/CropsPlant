@@ -1,7 +1,7 @@
 {
 	"urls": [
 	
-        {"url":"https://gitee.com/WJerry/crops-plant/blob/master/Jerry/JerryKM.txt","name":"🥸老吴🥸"}
+        {"url":"https://gitee.com/WJerry/crops-plant/raw/master/Jerry/JerryKM.txt","name":"🥸老吴🥸"}
 		
 	]
 }
