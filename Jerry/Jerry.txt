@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "新片热播",
-      "name": "🌺爱看|🎞️新片热播",
+      "name": "🌺爱看",
       "type": 1,
       "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
       "searchable": 1,
