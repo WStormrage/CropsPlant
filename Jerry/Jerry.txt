@@ -1,0 +1,24 @@
+{
+  "spider": "https://cn.kstore.space/download/4679/jar/815.jar;md5;fdbfe107fac08c110fd6312d0aaada48",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "lives": [
+    {
+      "name": "老吴直播",
+      "type": 0,
+      "url": "https://pan.shangui.cc/f/10aKtw/live.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "warningText": "老吴提示您：接口完全免费，切勿付费购买！",
+  "sites": [
+    {
+      "key": "20230826",
+      "name": "🐋请选择线路🐳----------------------👇",
+      "type": 3,
+      "api": "",
+      "ext": ""
+    }
+  ]
+}
