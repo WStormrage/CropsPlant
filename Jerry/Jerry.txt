@@ -1,17 +1,24 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
-  "warningText": "🌺爱看源自🌺网络🌺完全免费🌺",
+  "spider": "https://download.kstore.space/download/4872/jar/xm815.jar;md5;fdbfe107fac08c110fd6312d0aaada48",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "lives": [
+    {
+      "name": "老吴直播",
+      "type": 0,
+      "url": "https://pan.shangui.cc/f/10aKtw/live.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "warningText": "老吴提示您：接口完全免费，切勿付费购买！",
   "sites": [
     {
-      "key": "新片热播",
-      "name": "🌺爱看",
-      "type": 1,
-      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-      ]
+      "key": "20230826",
+      "name": "🐋请选择线路🐳----------------------👇",
+      "type": 3,
+      "api": "",
+      "ext": ""
     }
   ]
 }
