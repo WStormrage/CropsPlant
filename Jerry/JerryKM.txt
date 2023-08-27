@@ -187,16 +187,6 @@
     },
     {
       "key": "厂长",
-      "name": "猪猪乐猪影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/4872/txt/13_lzys.txt"
-    },
-    {
-      "key": "厂长",
       "name": "乐猪影视",
       "type": 3,
       "api": "csp_XYQHiker",
@@ -248,7 +238,6 @@
       "ext": "https://download.kstore.space/download/4872/txt/101_360.txt"
     }
   ],
-  
   "parses": [
     {
       "name": "🥸老吴聚合",
@@ -723,7 +712,7 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com",
-	"wan.51img1.com",
+    "wan.51img1.com",
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
