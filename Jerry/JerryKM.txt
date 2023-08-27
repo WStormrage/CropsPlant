@@ -1,5 +1,5 @@
 {
-  "spider": "https://download.kstore.space/download/4872/jar/xm815.jar;",
+  "spider": "https://download.kstore.space/download/4872/jar/xm820.jar;md5;a77db8990697b1dce16952a129e550b5",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "warningText": "老吴提示您：接口完全免费，切勿付费购买！",
   "lives": [
