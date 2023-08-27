@@ -187,17 +187,17 @@
     },
     {
       "key": "厂长",
-      "name": "🏭厂长影视",
+      "name": "猪猪乐猪影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/4872/txt/12_czys.txt"
+      "ext": "https://download.kstore.space/download/4872/txt/13_lzys.txt"
     },
     {
       "key": "厂长",
-      "name": "猪猪乐猪影视",
+      "name": "乐猪影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
