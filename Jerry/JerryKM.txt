@@ -184,6 +184,16 @@
     },
     {
       "key": "厂长",
+      "name": "老吴┃🏭厂长影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/4872/txt/12_czys.txt"
+    },
+    {
+      "key": "乐猪影视",
       "name": "老吴┃🐷乐猪影视",
       "type": 3,
       "api": "csp_XYQHiker",
