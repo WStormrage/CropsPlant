@@ -5,7 +5,7 @@
   "lives": [{
     "name": "老吴直播",
     "type": 0,
-    "url": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/live/live_01.txt",
+    "url": "https://atomgit.com/jerry/CropsPlant/raw/master/J/live/live_1.txt",
     "playerType": 1,
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "logo": "https://epg.112114.xyz/logo/{name}.png"
