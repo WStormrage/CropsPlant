@@ -1,6 +1,6 @@
 {
   "spider": "https://download.kstore.space/download/4872/jar/xm820.jar;md5;a77db8990697b1dce16952a129e550b5",
-  "wallpaper": "https://pic2.appjpg.com/piccc/2019/allimg/190517/17051254-35-53K.jpg",
+  "wallpaper": "https://pic2.appjpg.com/piccc/2019/allimg/190517/17051152-38-4U6.jpg",
   "warningText": "老吴提示您：接口完全免费，切勿付费购买！",
   "lives": [{
     "name": "老吴直播",
