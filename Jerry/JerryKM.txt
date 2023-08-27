@@ -1,11 +1,11 @@
 {
-  "spider": "https://download.kstore.space/download/4872/jar/xm820.jar;md5;a77db8990697b1dce16952a129e550b5",
+  "spider": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/xm820.jar;md5;a77db8990697b1dce16952a129e550b5",
   "wallpaper": "https://pic2.appjpg.com/piccc/2019/allimg/190517/17051152-38-4U6.jpg",
   "warningText": "老吴提示您：接口完全免费，切勿付费购买！",
   "lives": [{
     "name": "老吴直播",
     "type": 0,
-    "url": "https://download.kstore.space/download/4872/live/live_01.txt",
+    "url": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/live/live_01.txt",
     "playerType": 1,
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -14,8 +14,8 @@
     "key": "js_豆瓣热播",
     "name": "🔍豆瓣推荐🎉0826🎊",
     "type": 3,
-    "api": "https://download.kstore.space/download/4872/js/jerry.js",
-    "ext": "https://download.kstore.space/download/4872/txt/01_douban.txt"
+    "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
+    "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/01_douban.txt"
   },
     {
       "key": "csp_woggcli",
@@ -81,7 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/4872/txt/02_ffzy.txt"
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/02_ffzy.txt"
     },
     {
       "key": "csp_量子",
@@ -91,7 +91,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/4872/txt/03_lzzy.txt"
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/03_lzzy.txt"
     },
     {
       "key": "野兔资源",
@@ -180,7 +180,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/4872/txt/11_nmys.txt"
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/11_nmys.txt"
     },
     {
       "key": "厂长",
@@ -190,7 +190,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/4872/txt/12_czys.txt"
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/12_czys.txt"
     },
     {
       "key": "乐猪影视",
@@ -200,49 +200,49 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/4872/txt/13_lzys.txt"
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/13_lzys.txt"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "老吴┃🥝奇艺(官)",
       "type": 3,
-      "api": "https://download.kstore.space/download/4872/js/jerry.js",
-      "ext": "https://download.kstore.space/download/4872/txt/103_aqy.txt"
+      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/103_aqy.txt"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "老吴┃🍋芒果(官)",
       "type": 3,
-      "api": "https://download.kstore.space/download/4872/js/jerry.js",
-      "ext": "https://download.kstore.space/download/4872/txt/105_mg.txt"
+      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/105_mg.txt"
     },
     {
       "key": "drpy_js_优酷",
       "name": "老吴┃⛽优酷(官)",
       "type": 3,
-      "api": "https://download.kstore.space/download/4872/js/jerry.js",
-      "ext": "https://download.kstore.space/download/4872/txt/102_yk.txt"
+      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/102_yk.txt"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "老吴┃🐧腾讯(官)",
       "type": 3,
-      "api": "https://download.kstore.space/download/4872/js/jerry.js",
-      "ext": "https://download.kstore.space/download/4872/txt/104_tx.txt"
+      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/104_tx.txt"
     },
     {
       "key": "js_搜狗",
       "name": "老吴┃🐼搜狗(官)",
       "type": 3,
-      "api": "https://download.kstore.space/download/4872/js/jerry.js",
-      "ext": "https://download.kstore.space/download/4872/txt/106_sg.txt"
+      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/106_sg.txt"
     },
     {
       "key": "drpy_js_360影视",
       "name": "老吴┃🛡️360影视(官)",
       "type": 3,
-      "api": "https://download.kstore.space/download/4872/js/jerry.js",
-      "ext": "https://download.kstore.space/download/4872/txt/101_360.txt"
+      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/101_360.txt"
     }
   ],
   "parses": [{
