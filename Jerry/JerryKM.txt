@@ -197,7 +197,7 @@
     },
     {
       "key": "厂长",
-      "name": "猪乐猪影视",
+      "name": "猪猪乐猪影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
