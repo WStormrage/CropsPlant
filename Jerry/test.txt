@@ -2,20 +2,23 @@
   "spider": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/xm820.jar",
   "wallpaper": "https://pic2.appjpg.com/piccc/2019/allimg/190517/17051152-38-4U6.jpg",
   "warningText": "老吴提示您：接口完全免费，切勿付费购买！",
-  "lives": [{
-    "name": "老吴直播",
-    "type": 0,
-    "url": "https://atomgit.com/jerry/CropsPlant/raw/master/J/live/live_1.txt",
-    "playerType": 1,
-    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"
-  }],
-  "sites": [{
-    "key": "js_豆瓣热播",
-    "name": "🔍豆瓣推荐🎉0827🎊",
-    "type": 3,
-    "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
-    "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/01_douban.txt"
+  "lives": [
+    {
+      "name": "老吴直播",
+      "type": 0,
+      "url": "https://atomgit.com/jerry/CropsPlant/raw/master/J/live/live_1.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "sites": [
+    {
+      "key": "js_豆瓣热播",
+      "name": "🔍豆瓣推荐🎉0827🎊",
+      "type": 3,
+      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/01_douban.txt"
     },
     {
       "key": "drpy_js_百忙无果",
@@ -44,13 +47,13 @@
       "filterable": 1,
       "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/02_ffzy.txt"
     }
-    }
   ],
-  "parses": [{
-    "name": "🥸老吴聚合",
-    "type": 3,
-    "url": "Demo"
-  },
+  "parses": [
+    {
+      "name": "🥸老吴聚合",
+      "type": 3,
+      "url": "Demo"
+    },
     {
       "name": "🥸老吴Web",
       "type": 3,
@@ -177,92 +180,95 @@
       "url": "http://27.124.4.42:4567//jhjson//ceshi.php?url="
     }
   ],
-  "ijk": [{
-    "group": "软解码",
-    "options": [{
-      "category": 4,
-      "name": "opensles",
-      "value": "0"
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
     },
-      {
-        "category": 1,
-        "name": "fflags",
-        "value": "fastseek"
-      },
-      {
-        "category": 4,
-        "name": "framedrop",
-        "value": "1"
-      },
-      {
-        "category": 4,
-        "name": "enable-accurate-seek",
-        "value": "0"
-      },
-      {
-        "category": 4,
-        "name": "start-on-prepared",
-        "value": "1"
-      },
-      {
-        "category": 1,
-        "name": "http-detect-range-support",
-        "value": "0"
-      },
-      {
-        "category": 4,
-        "name": "mediacodec-handle-resolution-change",
-        "value": "0"
-      },
-      {
-        "category": 2,
-        "name": "skip_loop_filter",
-        "value": "48"
-      },
-      {
-        "category": 4,
-        "name": "reconnect",
-        "value": "1"
-      },
-      {
-        "category": 4,
-        "name": "overlay-format",
-        "value": "842225234"
-      },
-      {
-        "category": 4,
-        "name": "mediacodec",
-        "value": "0"
-      },
-      {
-        "category": 4,
-        "name": "mediacodec-auto-rotate",
-        "value": "0"
-      },
-      {
-        "category": 4,
-        "name": "soundtouch",
-        "value": "1"
-      },
-      {
-        "category": 4,
-        "name": "mediacodec-hevc",
-        "value": "0"
-      },
-      {
-        "category": 1,
-        "name": "dns_cache_timeout",
-        "value": "600000000"
-      }
-    ]
-  },
     {
       "group": "硬解码",
-      "options": [{
-        "category": 4,
-        "name": "opensles",
-        "value": "0"
-      },
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
         {
           "category": 1,
           "name": "fflags",
@@ -336,17 +342,18 @@
       ]
     }
   ],
-  "rules": [{
-    "name": "lz",
-    "hosts": [
-      "vip.lz",
-      "hd.lz"
-    ],
-    "regex": [
-      "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-      "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-    ]
-  },
+  "rules": [
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
     {
       "name": "ff",
       "hosts": [
