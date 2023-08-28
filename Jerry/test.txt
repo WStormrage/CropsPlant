@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "js_豆瓣热播",
-      "name": "🔍豆瓣推荐🎉0827🎊",
+      "name": "🔍豆瓣推荐🎉0827das🎊",
       "type": 3,
       "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
       "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/01_douban.txt"
