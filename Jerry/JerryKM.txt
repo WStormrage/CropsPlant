@@ -49,8 +49,28 @@
       "jar": "https://jihulab.com/laoz/N3RD/-/raw/master/JN/N3RD/J/lem0805.jar"
     },
     {
+      "key": "365",
+      "name": "老吴┃🗓️365快播",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://guan.yy365.vip/api.php/app/"
+    },
+    {
+      "key": "迷你库",
+      "name": "老吴┃Ⓜ️迷你库",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
+    },
+    {
       "key": "zy_虎牙资源",
-      "name": "老吴┃🐯虎牙资源",
+      "name": "老吴┃🐯虎牙资源↓",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -59,7 +79,7 @@
     },
     {
       "key": "极速资源gs",
-      "name": "老吴┃💫光速资源",
+      "name": "老吴┃💫光速资源↓",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list",
       "m3u8ads": "hd.youyhn.com",
@@ -86,7 +106,7 @@
     },
     {
       "key": "csp_非凡",
-      "name": "老吴┃🚁非凡资源",
+      "name": "老吴┃🚁非凡资源↓",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -125,7 +145,7 @@
     },
     {
       "key": "红牛资源",
-      "name": "老吴┃🐂红牛资源",
+      "name": "老吴┃🐂红牛资源↓",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -155,7 +175,7 @@
     },
     {
       "key": "zy_新浪",
-      "name": "老吴┃🌊新浪资源",
+      "name": "老吴┃🌊新浪资源↓",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -205,13 +225,30 @@
     },
     {
       "key": "乐猪影视",
-      "name": "老吴┃🐷乐猪影视",
+      "name": "老吴┃🐷乐猪影视↓",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/13_lzys.txt"
+    },
+    {
+      "key": "csp_耐看",
+      "name": "老吴┃😘耐看影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/14_nkys.txt"
+    },
+    {
+      "key": "yumi",
+      "name": "老吴┃🌽玉米影视",
+      "type": 1,
+      "api": "http://ym.xzam.cn:66/api.php/provide/vod/",
+      "playUrl": "json:http://42.157.128.109:2323/CH/zy/Yumi.php?url="
     },
     {
       "key": "drpy_js_奇珍异兽",
