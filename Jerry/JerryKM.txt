@@ -27,6 +27,32 @@
       "filterable": 1
     },
     {
+      "key": "csp_WoGG",
+      "name": "♉玩偶饭饭4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/tk/token.txt"
+    },
+    {
+      "key": "玩偶自营",
+      "name": "🧸玩偶自营4k",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 0.8
+      },
+      "api": "csp_XYQHikerAL",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/VdgO.json",
+      "jar": "https://agit.ai/alanchaotang/if/raw/branch/main/jar/custom_spider.jar"
+    },
+    {
       "key": "csp_Bttoo",
       "name": "老吴┃💢BTtwo",
       "type": 3,
