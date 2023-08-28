@@ -69,6 +69,16 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
+      "key": "大豆高清",
+      "name": "老吴┃🥔大豆高清",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.dadou.cm/api.php/app/"
+    },
+    {
       "key": "zy_虎牙资源",
       "name": "老吴┃🐯虎牙资源↓",
       "type": 1,
@@ -249,6 +259,234 @@
       "type": 1,
       "api": "http://ym.xzam.cn:66/api.php/provide/vod/",
       "playUrl": "json:http://42.157.128.109:2323/CH/zy/Yumi.php?url="
+    },
+    {
+      "key": "畅梦",
+      "name": "老吴┃💤畅梦影视",
+      "type": 3,
+      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/15_cmys.txt"
+    },
+    {
+      "key": "csp_黑狐",
+      "name": "老吴┃🦊黑狐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/16_hhys.txt"
+    },
+    {
+      "key": "csp_xBPQ_奇优",
+      "name": "老吴┃✨奇优影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/17_qyys.txt"
+    },
+    {
+      "key": "csp_土豪",
+      "name": "老吴┃💲土豪影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/18_thys.txt"
+    },
+
+    {
+      "key": "真不卡",
+      "name": "🌴真不卡影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/19_zbkys.txt"
+    },
+    {
+      "key": "csp_明帝",
+      "name": "👉明帝影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/20_mdys.txt"
+    },
+    {
+      "key": "csp_蛋蛋",
+      "name": "🥚蛋蛋影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/21_ddys.txt"
+    },
+    {
+      "key": "csp_徕米",
+      "name": "🎂徕米影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/22_lmys.txt"
+    },
+    {
+      "key": "csp_花猫",
+      "name": "🐱花猫影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/23_hmys.txt"
+    },
+    {
+      "key": "csp_速映",
+      "name": "🎈速映影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/24_syys.txt"
+    },
+    {
+      "key": "csp_圣城",
+      "name": "🎄圣城影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/25_scys.txt"
+    },
+    {
+      "key": "csp_夜光",
+      "name": "☄️夜光影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/26_ygys.txt"
+    },
+    {
+      "key": "csp_345",
+      "name": "👁看片影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/27_kp345.txt"
+    },
+    {
+      "key": "csp_米爱",
+      "name": "💧米爱影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/28_mays.txt"
+    },
+    {
+      "key": "csp_91",
+      "name": "😜91影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/29_ys91.txt"
+    },
+    {
+      "key": "csp_兔瓜",
+      "name": "🐰兔瓜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/30_tgys.txt"
+    },
+    {
+      "key": "csp_101",
+      "name": "🔵101影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/31_ys101.txt"
+    },
+    {
+      "key": "csp_xBPQ_66",
+      "name": "☘66影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/32_ys66.txt"
+    },
+    {
+      "key": "csp_007",
+      "name": "🍂007影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/33_ys007.txt"
+    },
+    {
+      "key": "csp_光棍",
+      "name": "🗽光棍影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/34_ggys.txt"
+    },
+    {
+      "key": "csp_Voflix",
+      "name": "老吴┃🟡Voflix",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/50_voflix.txt"
+    },
+    {
+      "key": "csp_TVB",
+      "name": "☁TVB云播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/51_tvb.txt"
+    },
+    {
+      "key": "热播之家",
+      "name": "♨️热播之家",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/52_rebozj.txt"
     },
     {
       "key": "drpy_js_奇珍异兽",
