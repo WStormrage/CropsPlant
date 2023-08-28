@@ -34,23 +34,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/tk/token.txt"
-    },
-    {
-      "key": "玩偶自营",
-      "name": "🧸玩偶自营4k",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 0.8
-      },
-      "api": "csp_XYQHikerAL",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/js/VdgO.json",
-      "jar": "https://agit.ai/alanchaotang/if/raw/branch/main/jar/custom_spider.jar"
+      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/tk/token.txt",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
     },
     {
       "key": "csp_Bttoo",
