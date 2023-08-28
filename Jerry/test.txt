@@ -13,10 +13,21 @@
   "sites": [
     {
       "key": "js_豆瓣热播",
-      "name": "🔍豆瓣推荐🎉0827dsad🎊",
+      "name": "🔍豆瓣推荐🎉0827🎊",
       "type": 3,
       "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
       "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/01_douban.txt"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "📀小纸条(搜索)",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
     },
     {
       "key": "drpy_js_百忙无果",
