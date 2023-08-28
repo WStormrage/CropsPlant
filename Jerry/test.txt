@@ -27,7 +27,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+      "jar": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/XYQ.jar"
     },
     {
       "key": "drpy_js_百忙无果",
