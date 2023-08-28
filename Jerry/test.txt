@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/xm820.jar",
+  "spider": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/Test.jar",
   "wallpaper": "https://pic2.appjpg.com/piccc/2019/allimg/190517/17051152-38-4U6.jpg",
   "warningText": "老吴提示您：接口完全免费，切勿付费购买！",
   "lives": [{
@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "js_豆瓣热播",
-      "name": "🔍豆瓣推荐🎉0827🎊",
+      "name": "🔍豆瓣推荐🎉0827dsad🎊",
       "type": 3,
       "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
       "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/01_douban.txt"
