@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/xm820.jar;md5;a77db8990697b1dce16952a129e550b5",
+  "spider": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/xm820.jar",
   "wallpaper": "https://pic2.appjpg.com/piccc/2019/allimg/190517/17051152-38-4U6.jpg",
   "warningText": "老吴提示您：接口完全免费，切勿付费购买！",
   "lives": [{
