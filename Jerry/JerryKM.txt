@@ -19,7 +19,7 @@
   },
     {
       "key": "csp_woggcli",
-      "name": "老吴┃🧸玩偶4K",
+      "name": "老吴┃🧸玩偶粥粥4K",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=fba141bb025a43cfa3bd23713874a8d5",
       "searchable": 1,
@@ -28,7 +28,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "♉玩偶饭饭4K",
+      "name": "老吴┃🧸玩偶饭饭4K",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -257,7 +257,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "📀小纸条(搜索)",
+      "name": "老吴┃📀小纸条(搜索)",
       "type": 3,
       "api": "csp_Gitcafe",
       "playerType": 1,
@@ -269,7 +269,7 @@
     },
     {
       "key": "csp_Zhaozy",
-      "name": "📀找资源(搜索)",
+      "name": "老吴┃📀找资源(搜索)",
       "type": 3,
       "api": "csp_Zhaozy",
       "playerType": 1,
@@ -281,7 +281,7 @@
     },
     {
       "key": "csp_AliPS",
-      "name": "📀喵狸盘搜(搜索)",
+      "name": "老吴┃📀喵狸盘搜(搜索)",
       "type": 3,
       "api": "csp_AliPS",
       "playerType": 1,
@@ -293,7 +293,7 @@
     },
     {
       "key": "csp_Yisou",
-      "name": "📀易搜(搜索)",
+      "name": "老吴┃📀易搜(搜索)",
       "type": 3,
       "api": "csp_Yisou",
       "playerType": 1,
