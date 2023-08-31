@@ -27,8 +27,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./json/alist.json",
-      "jar": "./jar/dc.jar"
+      "ext": "./json/alist.json"
     },
     {
       "key": "csp_WoGG",
