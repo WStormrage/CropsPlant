@@ -42,7 +42,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "老吴┃💙玩偶姐姐4k💙",
+      "name": "老吴┃💛小纸条4k💛",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -53,7 +53,7 @@
     },
     {
       "key": "csp_AliPS",
-      "name": "老吴┃💛盘搜4K💛",
+      "name": "老吴┃💚盘搜4K💚",
       "type": 3,
       "api": "csp_AliPS",
       "playerType": 1,
@@ -65,7 +65,7 @@
     },
     {
       "key": "csp_Yisou",
-      "name": "老吴┃💚易搜4K💚",
+      "name": "老吴┃💙易搜4K💙",
       "type": 3,
       "api": "csp_Yisou",
       "playerType": 1,
@@ -98,17 +98,6 @@
       "filterable": 1,
       "ext": "./tk/token.txt",
       "jar": "./jar/XYQ.jar"
-    },
-    {
-      "key": "yc",
-      "name": "老吴┃🔥玩偶🔥",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "/tk/token.txt+4k|fhd|auto",
-      "jar": "./jar/ZN83.jar?inline=false"
     }
   ],
   "parses": [
