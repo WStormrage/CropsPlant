@@ -22,7 +22,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "老吴┃❤️4K❤️",
+      "name": "老吴┃❤️玩偶哥哥4K❤️",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -33,7 +33,7 @@
     },
     {
       "key": "csp_woggcli",
-      "name": "老吴┃🧡4K🧡",
+      "name": "老吴┃🧡玩偶弟弟4K🧡",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=fba141bb025a43cfa3bd23713874a8d5",
       "searchable": 1,
@@ -48,7 +48,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType": 2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./tk/token.txt"
     },
     {
       "key": "csp_WoGG",
@@ -58,11 +58,11 @@
       "searchable": 1,
       "changeable": 0,
       "playerType": 2,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+      "ext": "./tk/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
     },
     {
       "key": "csp_AliPS",
-      "name": "老吴┃💛4K💛",
+      "name": "老吴┃💛盘搜4K💛",
       "type": 3,
       "api": "csp_AliPS",
       "playerType": 1,
@@ -74,7 +74,7 @@
     },
     {
       "key": "csp_Yisou",
-      "name": "老吴┃💚4K💚",
+      "name": "老吴┃💚易搜4K💚",
       "type": 3,
       "api": "csp_Yisou",
       "playerType": 1,
@@ -86,7 +86,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "老吴┃💙4K💙",
+      "name": "老吴┃💙小纸条4K💙",
       "type": 3,
       "api": "csp_Gitcafe",
       "playerType": 1,
@@ -98,7 +98,7 @@
     },
     {
       "key": "csp_Zhaozy",
-      "name": "老吴┃💜4K💜",
+      "name": "老吴┃💜找资源4K💜",
       "type": 3,
       "api": "csp_Zhaozy",
       "playerType": 1,
