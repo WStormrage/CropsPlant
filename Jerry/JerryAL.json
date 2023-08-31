@@ -32,7 +32,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "老吴┃🧸玩偶饭饭4K",
+      "name": "老吴┃❤️4K❤️",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -43,7 +43,7 @@
     },
     {
       "key": "csp_woggcli",
-      "name": "老吴┃🧸玩偶粥粥4K",
+      "name": "老吴┃🧡4K🧡",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=fba141bb025a43cfa3bd23713874a8d5",
       "searchable": 1,
@@ -51,32 +51,8 @@
       "filterable": 1
     },
     {
-      "key": "Gitcafe",
-      "name": "老吴┃📀小纸条(搜索)",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./tk/token.txt",
-      "jar": "./jar/XYQ.jar"
-    },
-    {
-      "key": "csp_Zhaozy",
-      "name": "老吴┃📀找资源(搜索)",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./tk/token.txt",
-      "jar": "./jar/XYQ.jar"
-    },
-    {
       "key": "csp_AliPS",
-      "name": "老吴┃📀喵狸盘搜(搜索)",
+      "name": "老吴┃💛4K💛",
       "type": 3,
       "api": "csp_AliPS",
       "playerType": 1,
@@ -88,9 +64,33 @@
     },
     {
       "key": "csp_Yisou",
-      "name": "老吴┃📀易搜(搜索)",
+      "name": "老吴┃💚4K💚",
       "type": 3,
       "api": "csp_Yisou",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./tk/token.txt",
+      "jar": "./jar/XYQ.jar"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "老吴┃💙4K💙",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./tk/token.txt",
+      "jar": "./jar/XYQ.jar"
+    },
+    {
+      "key": "csp_Zhaozy",
+      "name": "老吴┃💜4K💜",
+      "type": 3,
+      "api": "csp_Zhaozy",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
