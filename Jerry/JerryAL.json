@@ -48,7 +48,7 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "./tk/token.txt",
       "jar": "./jar/XYQ.jar"
     },
@@ -60,7 +60,7 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "./tk/token.txt",
       "jar": "./jar/XYQ.jar"
     },
@@ -84,7 +84,7 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "./tk/token.txt",
       "jar": "./jar/XYQ.jar"
     }
