@@ -15,20 +15,10 @@
   "sites": [
     {
       "key": "js_豆瓣热播",
-      "name": "🫒豆瓣推荐🎉0829🎊",
+      "name": "💞0831💞",
       "type": 3,
       "api": "./js/jerry.js",
       "ext": "./txt/01_douban.txt"
-    },
-    {
-      "key": "AList",
-      "name": "💾AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./json/alist.json",
-      "jar": "./jar/dc.jar"
     },
     {
       "key": "csp_WoGG",
