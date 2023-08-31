@@ -1,7 +1,0 @@
-{
-	"urls": [
-	
-        {"url":"https://ghproxy.com/https://github.com/WStormrage/CropsPlant/raw/master/Jerry/JerryKM.txt","name":"🥸老吴🥸"}
-		
-	]
-}
