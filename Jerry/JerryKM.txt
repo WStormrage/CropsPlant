@@ -1,12 +1,12 @@
 {
-  "spider": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/xm820.jar",
-  "wallpaper": "https://pic2.appjpg.com/piccc/2019/allimg/190517/17051152-38-4U6.jpg",
+  "spider": "./jar/xm820.jar",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "warningText": "老吴提示您：接口完全免费，切勿付费购买！",
   "lives": [
     {
       "name": "老吴直播",
       "type": 0,
-      "url": "./live/live_01.txt",
+      "url": "./live/live_1.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -15,10 +15,10 @@
   "sites": [
     {
       "key": "js_豆瓣热播",
-      "name": "🫒豆瓣推荐🎉0828🎊",
+      "name": "🫒豆瓣推荐🎉0829🎊",
       "type": 3,
-      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/01_douban.txt"
+      "api": "./js/jerry.js",
+      "ext": "./txt/01_douban.txt"
     },
     {
       "key": "AList",
@@ -27,8 +27,8 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/json/alist.json",
-      "jar": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/dc.jar"
+      "ext": "./json/alist.json",
+      "jar": "./jar/dc.jar"
     },
     {
       "key": "csp_WoGG",
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/tk/token.txt",
+      "ext": "./tk/token.txt",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
     },
     {
@@ -135,7 +135,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/02_ffzy.txt"
+      "ext": "./txt/02_ffzy.txt"
     },
     {
       "key": "csp_量子",
@@ -145,7 +145,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/03_lzzy.txt"
+      "ext": "./txt/03_lzzy.txt"
     },
     {
       "key": "野兔资源",
@@ -234,7 +234,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/11_nmys.txt"
+      "ext": "./txt/11_nmys.txt"
     },
     {
       "key": "厂长",
@@ -244,7 +244,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/12_czys.txt"
+      "ext": "./txt/12_czys.txt"
     },
     {
       "key": "乐猪影视",
@@ -254,7 +254,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/13_lzys.txt"
+      "ext": "./txt/13_lzys.txt"
     },
     {
       "key": "csp_耐看",
@@ -264,7 +264,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/14_nkys.txt"
+      "ext": "./txt/14_nkys.txt"
     },
     {
       "key": "yumi",
@@ -277,8 +277,8 @@
       "key": "畅梦",
       "name": "老吴┃💤畅梦影视",
       "type": 3,
-      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/15_cmys.txt"
+      "api": "./js/jerry.js",
+      "ext": "./txt/15_cmys.txt"
     },
     {
       "key": "csp_黑狐",
@@ -288,7 +288,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/16_hhys.txt"
+      "ext": "./txt/16_hhys.txt"
     },
     {
       "key": "csp_xBPQ_奇优",
@@ -298,7 +298,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/17_qyys.txt"
+      "ext": "./txt/17_qyys.txt"
     },
     {
       "key": "csp_土豪",
@@ -308,7 +308,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/18_thys.txt"
+      "ext": "./txt/18_thys.txt"
     },
     {
       "key": "真不卡",
@@ -318,7 +318,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/19_zbkys.txt"
+      "ext": "./txt/19_zbkys.txt"
     },
     {
       "key": "csp_明帝",
@@ -328,7 +328,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/20_mdys.txt"
+      "ext": "./txt/20_mdys.txt"
     },
     {
       "key": "csp_蛋蛋",
@@ -338,7 +338,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/21_ddys.txt"
+      "ext": "./txt/21_ddys.txt"
     },
     {
       "key": "csp_徕米",
@@ -348,7 +348,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/22_lmys.txt"
+      "ext": "./txt/22_lmys.txt"
     },
     {
       "key": "csp_花猫",
@@ -358,7 +358,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/23_hmys.txt"
+      "ext": "./txt/23_hmys.txt"
     },
     {
       "key": "csp_速映",
@@ -368,7 +368,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/24_syys.txt"
+      "ext": "./txt/24_syys.txt"
     },
     {
       "key": "csp_圣城",
@@ -378,7 +378,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/25_scys.txt"
+      "ext": "./txt/25_scys.txt"
     },
     {
       "key": "csp_夜光",
@@ -388,7 +388,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/26_ygys.txt"
+      "ext": "./txt/26_ygys.txt"
     },
     {
       "key": "csp_345",
@@ -398,7 +398,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/27_kp345.txt"
+      "ext": "./txt/27_kp345.txt"
     },
     {
       "key": "csp_米爱",
@@ -408,7 +408,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/28_mays.txt"
+      "ext": "./txt/28_mays.txt"
     },
     {
       "key": "csp_91",
@@ -418,7 +418,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/29_ys91.txt"
+      "ext": "./txt/29_ys91.txt"
     },
     {
       "key": "csp_兔瓜",
@@ -428,7 +428,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/30_tgys.txt"
+      "ext": "./txt/30_tgys.txt"
     },
     {
       "key": "csp_101",
@@ -438,7 +438,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/31_ys101.txt"
+      "ext": "./txt/31_ys101.txt"
     },
     {
       "key": "csp_xBPQ_66",
@@ -448,7 +448,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/32_ys66.txt"
+      "ext": "./txt/32_ys66.txt"
     },
     {
       "key": "csp_007",
@@ -458,7 +458,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/33_ys007.txt"
+      "ext": "./txt/33_ys007.txt"
     },
     {
       "key": "csp_光棍",
@@ -468,7 +468,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/34_ggys.txt"
+      "ext": "./txt/34_ggys.txt"
     },
     {
       "key": "csp_Voflix",
@@ -478,7 +478,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/50_voflix.txt"
+      "ext": "./txt/50_voflix.txt"
     },
     {
       "key": "csp_TVB",
@@ -488,7 +488,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/51_tvb.txt"
+      "ext": "./txt/51_tvb.txt"
     },
     {
       "key": "热播之家",
@@ -498,49 +498,49 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/52_rebozj.txt"
+      "ext": "./txt/52_rebozj.txt"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "老吴┃🥝奇艺(官)",
       "type": 3,
-      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/103_aqy.txt"
+      "api": "./js/jerry.js",
+      "ext": "./txt/103_aqy.txt"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "老吴┃🍋芒果(官)",
       "type": 3,
-      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/105_mg.txt"
+      "api": "./js/jerry.js",
+      "ext": "./txt/105_mg.txt"
     },
     {
       "key": "drpy_js_优酷",
       "name": "老吴┃⛽优酷(官)",
       "type": 3,
-      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/102_yk.txt"
+      "api": "./js/jerry.js",
+      "ext": "./txt/102_yk.txt"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "老吴┃🐧腾讯(官)",
       "type": 3,
-      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/104_tx.txt"
+      "api": "./js/jerry.js",
+      "ext": "./txt/104_tx.txt"
     },
     {
       "key": "js_搜狗",
       "name": "老吴┃🐼搜狗(官)",
       "type": 3,
-      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/106_sg.txt"
+      "api": "./js/jerry.js",
+      "ext": "./txt/106_sg.txt"
     },
     {
       "key": "drpy_js_360影视",
       "name": "老吴┃🛡️360影视(官)",
       "type": 3,
-      "api": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/js/jerry.js",
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/txt/101_360.txt"
+      "api": "./js/jerry.js",
+      "ext": "./txt/101_360.txt"
     },
     {
       "key": "Gitcafe",
@@ -551,8 +551,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/tk/token.txt",
-      "jar": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/XYQ.jar"
+      "ext": "./tk/token.txt",
+      "jar": "./jar/XYQ.jar"
     },
     {
       "key": "csp_Zhaozy",
@@ -563,8 +563,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/tk/token.txt",
-      "jar": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/XYQ.jar"
+      "ext": "./tk/token.txt",
+      "jar": "./jar/XYQ.jar"
     },
     {
       "key": "csp_AliPS",
@@ -575,8 +575,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/tk/token.txt",
-      "jar": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/XYQ.jar"
+      "ext": "./tk/token.txt",
+      "jar": "./jar/XYQ.jar"
     },
     {
       "key": "csp_Yisou",
@@ -587,8 +587,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/tk/token.txt",
-      "jar": "https://gitee.com/WJerry/crops-plant/raw/master/Jerry/jar/XYQ.jar"
+      "ext": "./tk/token.txt",
+      "jar": "./jar/XYQ.jar"
     }
   ],
   "parses": [
