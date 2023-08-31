@@ -1,7 +1,12 @@
 {
-	"urls": [
-	
-        {"url":"https://ghproxy.com/https://raw.githubusercontent.com/WStormrage/CropsPlant/master/Jerry/JerryKM.json","name":"🥸老吴🥸"}
-		
-	]
+  "urls": [
+    {
+      "name": "🥸老吴🥸",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/WStormrage/CropsPlant/master/Jerry/JerryKM.json"
+    },
+    {
+      "name": "🥸老吴4K🥸",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/WStormrage/CropsPlant/master/Jerry/JerryAL.json"
+    }
+  ]
 }
