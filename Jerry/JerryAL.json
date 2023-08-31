@@ -41,6 +41,26 @@
       "filterable": 1
     },
     {
+      "key": "csp_wogg_cli",
+      "name": "☁玩偶 | T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "☁玩偶 | 4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "changeable": 0,
+      "playerType": 2,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+    },
+    {
       "key": "csp_AliPS",
       "name": "老吴┃💛4K💛",
       "type": 3,
@@ -87,6 +107,77 @@
       "filterable": 1,
       "ext": "./tk/token.txt",
       "jar": "./jar/XYQ.jar"
+    },
+    {
+      "key": "七夜",
+      "name": "☁七夜 | 4K",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "./tk/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "☁找资源 | 4K",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "./tk/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"
+    },
+    {
+      "key": "YiSo",
+      "name": "☁易搜 | 4K",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "./tk/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "PanSou",
+      "name": "☁盘搜 | 4K",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "./tk/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "UpYun",
+      "name": "☁Up搜 | 4K",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "./tk/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "PanSearch",
+      "name": "☁盘Sea | 4K",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "./tk/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴磁力|阿里推送",
+      "type": 3,
+      "api": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/lf_pushagentjm1_5_min.js",
+      "searchable": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "timeout": 60,
+      "ext": "./tk/token.txt"
     }
   ],
   "parses": [
