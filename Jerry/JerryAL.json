@@ -90,23 +90,25 @@
     },
     {
       "key": "Gitcafe",
-      "name": "我的阿里",
+      "name": "💜我的阿里",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./tk/token.txt+4k|fhd|auto"
+      "ext": "/tk/token.txt+4k|fhd|auto",
+      "jar": "https://git.acwing.com/zn777/tvlive/-/raw/main/jar/xzt83.jar?inline=false"
     },
     {
       "key": "yc",
-      "name": "阿里影仓",
+      "name": "💜阿里影仓",
       "type": 3,
       "api": "csp_Hdhive",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./tk/token.txt+4k|fhd|auto"
+      "ext": "/tk/token.txt+4k|fhd|auto",
+      "jar": "https://git.acwing.com/zn777/tvlive/-/raw/main/jar/xzt83.jar?inline=false"
     }
   ],
   "parses": [
