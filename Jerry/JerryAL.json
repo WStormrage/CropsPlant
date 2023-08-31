@@ -98,6 +98,40 @@
       "filterable": 1,
       "ext": "./tk/token.txt",
       "jar": "./jar/XYQ.jar"
+    },
+    {
+      "key": "yc",
+      "name": "💖影巢极速8K",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./tk/token.txt",
+      "jar": "https://jihulab.com/0004/0/-/raw/main/app.jar"
+    },
+    {
+      "key": "xhtx",
+      "name": "🌺移动云盘4K",
+      "type": 1,
+      "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+    },
+    {
+      "key": "阿里云集合",
+      "name": "⏳阿里云集合4K",
+      "type": 3,
+      "api": "csp_阿里云集合",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": "./tk/token.txt",
+      "timeout": 30,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;38f57feba083c55ea36328e3a45bbb4a"
     }
   ],
   "parses": [
