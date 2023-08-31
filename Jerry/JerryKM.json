@@ -21,15 +21,6 @@
       "ext": "./txt/01_douban.txt"
     },
     {
-      "key": "AList",
-      "name": "💾AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./json/alist.json"
-    },
-    {
       "key": "csp_WoGG",
       "name": "老吴┃🧸玩偶饭饭4K",
       "type": 3,
