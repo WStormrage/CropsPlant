@@ -53,11 +53,13 @@
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xinyi1984/xytv/master/jar/custom_spider.jar;md5;38f57feba083c55ea36328e3a45bbb4a"
     },
     {
-      "key": "海洋",
+      "key": "夸克校长",
       "name": "老吴┃💚玩偶妹妹4K",
       "type": 3,
-      "api": "csp_Sean",
-      "ext": "./tk/token.txt",
+      "api": "https://agit.ai/767820774/gao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://agit.ai/767820774/gao/raw/branch/master/js/xzys.js",
+      "quickSearch": 1,
+      "changeable": 1,
       "timeout": 30,
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a306d60326ef5affeacc3eadd88094dd"
     },
@@ -132,6 +134,16 @@
       "jar": "./jar/XYQ.jar"
     },
     {
+      "key": "csp_77",
+      "name": "老吴┃👒酷云七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad"
+    },
+    {
       "key": "迷你库",
       "name": "老吴┃Ⓜ️迷你库",
       "type": 3,
@@ -142,11 +154,124 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
     },
     {
+      "key": "csp_Bttoo",
+      "name": "老吴┃💢BTtwo",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://jihulab.com/laoz/N3RD/-/raw/master/JN/N3RD/J/lem0805.jar;md5;082EA07F051619E193678113C81A95DB"
+    },
+    {
       "key": "yumi",
-      "name": "老吴┃🌽玉米影视",
+      "name": "老吴┃🌽玉米蓝光",
       "type": 1,
       "api": "http://ym.xzam.cn:66/api.php/provide/vod/",
       "playUrl": "json:http://42.157.128.109:2323/CH/zy/Yumi.php?url="
+    },
+    {
+      "key": "AppYs_yumi",
+      "name": "老吴┃👑至臻蓝光",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E6%96%B0%E5%A4%9C%E7%8C%AB%E8%87%B3%E8%87%BB.js"
+    },
+    {
+      "key": "ymzy2k",
+      "name": "老吴┃😻夜猫蓝光",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/夜猫自营2k.js"
+    },
+    {
+      "key": "影院",
+      "name": "老吴┃🍔汉堡蓝光",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
+      "key": "csp_slgq",
+      "name": "老吴┃🏵️石榴蓝光",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E7%9F%B3%E6%A6%B4%E9%AB%98%E6%B8%85.json"
+    },
+    {
+      "key": "csp_XYQHiker蓝光",
+      "name": "老吴┃💎钻石蓝光",
+      "type": 3,
+      "playerType": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json",
+      "jar": "./jar/Xiang.txt"
+    },
+    {
+      "key": "csp_BLSGod",
+      "name": "老吴┃🧲80S磁力",
+      "type": 3,
+      "api": "csp_BLSGod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XYQ.jar"
+    },
+    {
+      "key": "SeedHub",
+      "name": "老吴┃🧲Seed磁力",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./jar/XYQ.jar"
+    },
+    {
+      "key": "mp4磁力",
+      "name": "老吴┃🧲mp4磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/ymz1231/json/-/raw/main/mp4磁力.json",
+      "jar": "./jar/XYQ.jar"
+    },
+    {
+      "key": "6v磁力",
+      "name": "老吴┃🧲6v磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.gitmirror.com/gaotianliuyun/gao/master/XYQHiker/6v磁力.json",
+      "jar": "./jar/XYQ.jar"
+    },
+    {
+      "key": "list",
+      "name": "老吴┃🎢云搜8K",
+      "type": 3,
+      "api": "https://agit.ai/lem85930/OneClickRun/raw/branch/master/LIB/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/hami/stop/-/raw/main/农作物/yunsou.json"
     },
     {
       "key": "drpy_js_奇珍异兽",
