@@ -41,6 +41,17 @@
       "filterable": 1
     },
     {
+      "key": "Gitcafe",
+      "name": "老吴┃💙玩偶姐姐4k💙",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "/tk/token.txt+4k|fhd|auto",
+      "jar": "./jar/ZN83.jar?inline=false"
+    },
+    {
       "key": "csp_AliPS",
       "name": "老吴┃💛盘搜4K💛",
       "type": 3,
@@ -89,26 +100,15 @@
       "jar": "./jar/XYQ.jar"
     },
     {
-      "key": "Gitcafe",
-      "name": "💜我的阿里",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "/tk/token.txt+4k|fhd|auto",
-      "jar": "https://git.acwing.com/zn777/tvlive/-/raw/main/jar/xzt83.jar?inline=false"
-    },
-    {
       "key": "yc",
-      "name": "💜阿里影仓",
+      "name": "老吴┃🔥玩偶🔥",
       "type": 3,
       "api": "csp_Hdhive",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "/tk/token.txt+4k|fhd|auto",
-      "jar": "https://git.acwing.com/zn777/tvlive/-/raw/main/jar/xzt83.jar?inline=false"
+      "jar": "./jar/ZN83.jar?inline=false"
     }
   ],
   "parses": [
