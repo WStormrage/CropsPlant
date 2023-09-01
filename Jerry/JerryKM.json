@@ -58,7 +58,8 @@
       "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jar/XYQ.jar"
     },
     {
       "key": "AppYs_yumi",
