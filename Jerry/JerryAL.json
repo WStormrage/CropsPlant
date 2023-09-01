@@ -104,7 +104,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./tk/token.txt"
+      "ext": "./tk/token.txt",
+      "jar": "./jar/fan.jar"
     },
     {
       "key": "Gitcafe",
