@@ -86,6 +86,39 @@
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
     },
     {
+      "key": "♻️csp_woggcli♻️",
+      "name": "🧚‍♂️玩偶cli(白嫖小武哥)♻️",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./tk/token.txt",
+      "jar": "https://qu.ax/rvNn.jpg"
+    },
+    {
+      "key": "csp_woggcli",
+      "name": "♻️业余|玩偶(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./tk/token.txt"
+    },
+    {
+      "key": "csp_Hdhive_影巢",
+      "name": "🎥影巢☆阿里♻️",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./tk/token.txt",
+      "jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"
+    },
+    {
       "key": "Gitcafe",
       "name": "老吴┃📀小纸条4K(搜索)",
       "type": 3,
