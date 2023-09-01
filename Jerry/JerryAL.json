@@ -64,18 +64,8 @@
       "jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"
     },
     {
-      "key": "纸条(cli)",
-      "name": "老吴┃🔖纸条[T4]",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./tk/token.txt"
-    },
-    {
       "key": "夸克校长",
-      "name": "老吴┃💞夸克校长4K",
+      "name": "老吴┃🧿夸克校长4K",
       "type": 3,
       "api": "https://agit.ai/767820774/gao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/767820774/gao/raw/branch/master/js/xzys.js",
@@ -105,6 +95,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+    },
+    {
+      "key": "纸条(cli)",
+      "name": "老吴┃🧧小红包4K",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./tk/token.txt"
     },
     {
       "key": "Gitcafe",
