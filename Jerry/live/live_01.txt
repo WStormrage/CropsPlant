@@ -842,16 +842,9 @@ TVB星河,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATz
 
 
 老吴｜虎牙频道,#genre#
-虎牙-周星星,http://43.138.170.29:35455/huya/24470631
-虎牙-林正英,http://43.138.170.29:35455/huya/11342421
-
-电影-死神来了,http://mmitv.top/pltv/huya.php?id=11352903
-电影-死神来了,http://59.47.74.33:35455/huya/11352903
-电影-死神来了,http://epg.112114.xyz/huya/11352903
-
-电影-变形金刚,http://mmitv.top/pltv/huya.php?id=21059596
-电影-变形金刚,http://59.47.74.33:35455/huya/21059596
-电影-变形金刚,http://epg.112114.xyz/huya/21059596
+电影-周星星,http://43.138.170.29:35455/huya/11342412
+电影-林正英,http://43.138.170.29:35455/huya/11342421
+电影-死神来了,http://43.138.170.29:35455/huya/11352903
 
 
 
