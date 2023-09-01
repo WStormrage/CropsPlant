@@ -88,8 +88,8 @@
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
     },
     {
-      "key": "♻️csp_woggcli♻️",
-      "name": "🧚‍♂️玩偶cli(白嫖小武哥)♻️",
+      "key": "csp_woggcli",
+      "name": "玩偶小武哥",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg",
       "searchable": 1,
@@ -100,7 +100,7 @@
     },
     {
       "key": "csp_Hdhive_影巢",
-      "name": "🎥影巢☆阿里♻️",
+      "name": "影巢☆阿里",
       "type": 3,
       "api": "csp_Hdhive",
       "searchable": 1,
