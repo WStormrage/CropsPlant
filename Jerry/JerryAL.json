@@ -72,7 +72,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a306d60326ef5affeacc3eadd88094dd"
+      "jar": "https://agit.ai/767820774/gao/raw/branch/master/jar/fm.jar;md5;4ae5e0859b7c3a667cf83e910ed329e1"
     },
     {
       "key": "yc",
@@ -95,17 +95,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-    },
-    {
-      "key": "纸条(cli)",
-      "name": "老吴┃🧧小红包4K",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./tk/token.txt",
-      "jar": "./jar/fan.jar"
     },
     {
       "key": "Gitcafe",
