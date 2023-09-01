@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "js_豆瓣热播",
-      "name": "☔0901☔",
+      "name": "😭4K┃☔0901☔",
       "type": 3,
       "api": "./js/jerry.js",
       "ext": "./txt/01_douban.txt"
