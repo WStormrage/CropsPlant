@@ -35,11 +35,13 @@
       "key": "csp_woggcli",
       "name": "老吴┃🧡玩偶弟弟4K",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=fba141bb025a43cfa3bd23713874a8d5",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./tk/token.txt"
+    }
     {
       "key": "阿里云集合",
       "name": "老吴┃💛玩偶姐姐4K",
@@ -95,17 +97,6 @@
       "filterable": 1,
       "ext": "./tk/token.txt",
       "jar": "https://qu.ax/rvNn.jpg"
-    },
-    {
-      "key": "csp_woggcli",
-      "name": "♻️业余|玩偶(cli)",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./tk/token.txt"
     },
     {
       "key": "csp_Hdhive_影巢",
