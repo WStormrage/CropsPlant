@@ -64,6 +64,16 @@
       "jar": "https://cloud.lxweb.cn/f/kPohp/ky.jar"
     },
     {
+      "key": "纸条(cli)",
+      "name": "老吴┃🔖纸条[T4]",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./tk/token.txt"
+    },
+    {
       "key": "夸克校长",
       "name": "老吴┃💞夸克校长4K",
       "type": 3,
