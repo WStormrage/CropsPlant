@@ -224,6 +224,15 @@
       "type": 3,
       "api": "./js/jerry.js",
       "ext": "./txt/101_360.txt"
+    },
+    {
+      "key": "csp_Yj1211",
+      "name": "老吴┃📽️在线直播",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
     }
   ],
   "parses": [
